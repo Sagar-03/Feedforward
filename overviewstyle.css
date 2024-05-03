@@ -1,0 +1,150 @@
+body{
+    margin-left: 30px;
+}
+.feed{
+    color: #71F10C;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.oneline{
+    display: flex;
+
+}
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-left: 900px;
+    margin-top: 0px;
+}
+.home a{
+    margin-right: 30px;
+    color: black;
+}
+.about a{
+    margin-right: 30px;
+    color: black;
+
+}
+.fa-user{
+margin-right: 30px;
+color: red;
+}
+.profile a{
+    margin-right: 10px;
+    color: black;
+}
+.overview{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.food1 img{
+    width: 1350px;
+}
+.bar{
+    margin-top: 30px;
+    display: flex;
+}
+.bar a{
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+    margin-right: 35px;
+    margin-top: 40px;
+}
+.review{
+    margin-top: 40px;
+}
+.review a {
+    color: red;
+    
+}
+.photo img{
+    width: 1400px;
+}
+
+.footer{
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+.sec{
+    padding: 40px 120px;
+    background-color: rgb(244,244,253);
+}
+.one{
+    display: flex;
+    margin-left: 900px;
+}.one1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.one1 span {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: 400;
+    display: block;
+    text-align: center;
+}
+
+.fa-globe{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.first1 span {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 20px; /* Add some space between the elements */
+    font-weight: 400;
+}
+
+.two{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+.feeding{
+    margin-top: 60px;
+}
+.two div{
+    width: 200px;
+}
+.two h4{
+    font-weight: lighter;
+    color: rgb(22, 22, 22);
+    white-space: nowrap; 
+}
+.two a{
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: gray;
+    font-size: 0.9rem;
+}
+.two img{
+    width: 137px;
+    height: 40px;
+    margin-top: 11px;
+    cursor: pointer;
+}
+
+
+
+
+                

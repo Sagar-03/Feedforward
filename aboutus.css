@@ -1,0 +1,85 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav {
+    position: relative; /* Changed to relative */
+    width: 1550px; /* Set the width and height of the container */
+    height: 500px;
+}
+
+.nav img {
+    width: 1550px; /* Set the width and height of the container */
+    height: 500px;
+   position: absolute;
+   z-index: 1;
+   top: 0;
+   left: 0;
+}
+
+.para {
+    position: absolute;
+    margin-left: 1100px; 
+    display: flex;
+    margin-top: 15px;
+}
+
+.para a {
+    margin-left: 50px;
+    color: white; /* Added for visibility */
+    text-decoration: none; /* Added for clarity */
+    z-index: 2;
+    font-size: 1.1rem;
+}
+
+.nav button {
+    background-color: blue;
+    z-index: 5;
+    position: absolute;
+    margin-top: 310px;
+    height: 75px;
+    width: 230px;
+}
+.bt1 {
+    margin-left: 30px;
+    
+}
+.bt2 {
+    margin-left: 300px;
+}
+
+.steps img {
+    width: 1550px; /* Set the width and height of the container */
+    height: 650px;
+}
+
+.stepss img {
+    width: 1550px; /* Set the width and height of the container */
+    height: 650px;
+}
+
+.faq {
+    height: 700px;
+    width: 1550px;
+}
+
+.faq p {
+    background-color: #D9D9D9;
+    color: black;
+    font-weight: 1.5rem;
+    font-size:  1.5rem;
+    margin: 20px;
+    width: 700px;
+    margin-left: 350px;
+    padding: 10px;
+    border-radius: 0.5rem;
+    padding-left: 20px;
+}
+
+.faq h3 {
+    margin-top: 50px;
+    font-size: 3rem;
+    margin-left: 390px;
+    margin-bottom: 50px;
+}

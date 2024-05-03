@@ -1,0 +1,317 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.image {
+    position: relative;
+    background-image: url("Rectangle\ 7.png");
+    background-size: cover;
+    height: 600px;
+}
+.line{
+    display: flex;
+}
+.gettheapp{
+    color: black;
+    text-align: left;
+    margin-left: 20px;
+    font-size: 25px;
+    padding: 10px;}
+.gettheapp a{
+    color: black;
+    border-radius: 15px;
+    text-decoration: none;font-size: 20px;
+}
+.navbar {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-left: 1200px;
+}
+.navbar a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.signup{
+    margin-right: 5px;
+}
+.workspace {
+    background-color: #71F10C;
+    color: black;
+    padding: 10px 10px;
+    width: 130px;
+    border-radius: 15px;
+    height: 20px;
+}
+.workspace button{
+    padding: 0;
+border: none;
+background: none;
+    
+}
+.tagline {
+    text-align: center;
+    margin-top: 70px;
+    font-weight: bold;
+}
+.tagline div {
+    color: #FFA500;
+    font-size: 70px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+.location-bar {
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: white;
+    width: 800px; 
+    height: 30px;
+    margin-top: 100px;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(120px);
+}
+.fa-map-marker-alt{
+    color: red;
+    margin-right: 10px;
+}
+.fa-location-dot:before {
+    color: #71F10C; 
+    font-size: 24px;
+    margin-right: 10px;
+    
+}
+.location-details {
+    font-size: 18px;
+    margin-right: 20px;
+}
+.right button{
+    background-color: transparent;
+}
+.search input {
+    width: 300px; 
+    font-size: 20px; 
+    color: #888;
+    align-items: center;
+    margin-left: 70px;
+}
+.right {
+    margin-left: auto;
+}
+.green {
+    background-color: #71F10C;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.green button{
+    padding: 0;
+    border: none;
+    background: none;}
+.next {
+    color: #000000;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+.bg{
+    background-color: #CCFDDE;
+    margin-top: 0;
+    padding-top: 0;
+    
+}
+.food {
+    display: flex;
+    justify-content: center;
+}
+.fooditem {
+    text-align: center;
+    margin: 0 10px; 
+    margin-bottom: 0px;
+}
+.fooditem img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 400px; 
+    height: 400px;
+    margin-bottom: 0px;
+}
+.food-data {
+    margin-top: 0px; 
+    font-size: 24px; 
+    background-color: white;
+    border: 1px solid transparent;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.food-data a{
+    color: black;
+    font-style: normal;
+
+}
+.doorstep {
+    text-align: center; 
+    margin-top: 20px; 
+}
+.doorstep img {
+    max-width: 80%; 
+    height: auto; 
+    margin-top: 20px; 
+}
+.bestintown {
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 80px;
+}
+.bestintown img {
+    max-width: 80%; 
+    height: auto; 
+    margin-top: 20px; 
+}
+.work {
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.community {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+.partner {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.partner-item {
+    text-align: left;
+    margin: 0 10px;
+}
+
+.partner img {
+    border-radius: 20px;
+    width: 500px; 
+    height: auto; 
+}
+
+.partner h1{
+    font-size: 50px; 
+    margin-top: 1px;
+    color: #001B03;
+    font-weight: bold;
+    margin-bottom: 1px;
+    
+}
+.partner h2{
+    color: #001B03;
+    margin-top: 1px;
+    font-size: 30px;
+    font-weight: 100;
+}
+.green-box {
+    background-color: #001B03; 
+    color: black; 
+    padding: 5px 10px; 
+    border-radius: 10px; 
+    display: inline-block; 
+}
+
+.green-box a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 30px;
+}
+.footer{
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+.sec{
+    padding: 40px 120px;
+    background-color: rgb(244,244,253);
+}
+.firstline{
+    display: flex;
+    justify-content: space-between;
+}
+.first1 {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    margin-left: 900px;
+}
+.fa-globe{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.first1 span {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 20px; /* Add some space between the elements */
+    font-weight: 400;
+}
+
+.feed{
+    color: #71F10C;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.second{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+.feeding{
+    margin-top: 60px;
+}
+.second div{
+    width: 200px;
+}
+.second h4{
+    font-weight: lighter;
+    color: rgb(22, 22, 22);
+    white-space: nowrap; 
+}
+.second a{
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: gray;
+    font-size: 0.9rem;
+}
+.second img{
+    width: 137px;
+    height: 40px;
+    margin-top: 11px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+                

@@ -1,0 +1,230 @@
+body{
+    margin-left: 30px;
+}
+.feed{
+    color: #71F10C;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.oneline{
+    display: flex;
+}
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+    margin-left: 900px;
+}
+.home a{
+    margin-right: 30px;
+    color: black;
+}
+.about a{
+    margin-right: 30px;
+    color: black;
+
+}
+.fa-user{
+margin-right: 30px;
+color: red;
+}
+.profile a{
+    margin-right: 10px;
+    color: black;
+
+}.loc {
+    display: flex;
+}
+.location-bar {
+    border-radius: 10px;
+    margin-top: 100px;
+    background-color: #F5F5F5;
+    width: 1000px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.fa-map-marker-alt {
+    color: #71F10C;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.location-bar input[type="text"] {
+    width: 300px;
+    font-size: 20px;
+    color: #888;
+    margin-left: 10px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.location-bar button {
+    background-color: #71F10C;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.location-bar button:hover {
+    background-color: #5BCA5C;
+}
+
+.welcome{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.second{
+    display: flex;
+}
+.nav2 a{
+    color: black;
+text-decoration: none;
+}
+.nav2{
+    margin-top: 80px;
+    display: flex;
+    margin-left: 800px;
+}
+.nav3{
+    margin-right: 10px;
+    
+}
+
+.nav3 button{
+    background-color: #71F10C;
+    font-size: 17px;
+    border-radius: 15px;
+    margin-left: 10px;
+    border: transparent;
+}
+.firstline{
+    display: flex;
+}
+.secondline{
+    display: flex;
+}
+.thirdline{
+    display: flex;
+}
+.food1 img {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 350px; 
+    height: auto;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-top: 40px;
+}
+.fooddata {
+    margin-top: 0px; 
+    font-size: 30px; 
+    background-color: #E7F9EE;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+    width: 350px;
+    height: 50px;
+}
+.fooddata a{
+    color: black;
+text-decoration: none;
+font-style: italic;
+font-weight: bold;
+}
+.footer{
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+.sec{
+    padding: 40px 120px;
+    background-color: rgb(244,244,253);
+}
+.one{
+    display: flex;
+    margin-left: 900px;
+}.one1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.one1 span {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: 400;
+    display: block;
+    text-align: center;
+}
+
+.fa-globe{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.first1 span {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 20px; /* Add some space between the elements */
+    font-weight: 400;
+}
+
+.two{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+.feeding{
+    margin-top: 60px;
+}
+.two div{
+    width: 200px;
+}
+.two h4{
+    font-weight: lighter;
+    color: rgb(22, 22, 22);
+    white-space: nowrap; 
+}
+.two a{
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: gray;
+    font-size: 0.9rem;
+}
+.two img{
+    width: 137px;
+    height: 40px;
+    margin-top: 11px;
+    cursor: pointer;
+}
+
+
+
+
+                
